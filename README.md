@@ -1,8 +1,8 @@
 # ⚡ AgentX 2.0 — AI-Powered Productivity Toolkit
 
 > **Your complete AI productivity suite.** Weather, Tasks, CSV Analytics, AI Search, Goal Tracking, and Email Notifications — all beautifully integrated into a sleek 6-tool dashboard.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/K-Preetham-Reddy/AgentX-2.0)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://github.com/K-Preetham-Reddy/AgentX-2.0)
 
 ---
 
